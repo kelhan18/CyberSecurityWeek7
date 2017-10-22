@@ -13,7 +13,7 @@ Time spent: 1 hours spent in total
     2. Tested in version: 4.2
     3. Fixed in version: 4.2.3
     4. GIF Walkthrough:
-        ![Alt Text]https://i.gyazo.com/761f2461ed3ce9dfc6b94d6e170e7035.mp4
+        https://i.gyazo.com/761f2461ed3ce9dfc6b94d6e170e7035.mp4
 
     5. Steps to recreate: Make a comment with
         <a href="[caption code=">]</a><a title = " onmouseover=alert('testalert')  ">link</a>
@@ -27,7 +27,7 @@ Time spent: 1 hours spent in total
     2. Tested in version: 4.2
     3. Fixed in version: 4.4.1.8
     4. GIF Walkthrough:
-        ![Alt Text]https://gyazo.com/3b8e1e695be57eb746cbdc125da0b79e
+        https://gyazo.com/3b8e1e695be57eb746cbdc125da0b79e
     5. Steps to recreate: Make a comment with
     <a title='x onmouseover=alert(unescape(/hello%20world/.source))
     style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
@@ -41,7 +41,7 @@ Time spent: 1 hours spent in total
     2. Tested in version: 4.2
     3. Fixed in version: 4.4.1.8
     4. GIF Walkthrough:
-        ![Alt Text]https://gyazo.com/969c2f6fc7dbbb7c118b6a45ab868d8c
+        https://gyazo.com/969c2f6fc7dbbb7c118b6a45ab868d8c
 
     5. Steps to recreate: Make a comment with
          <p>TEST!!!<figure style="width: 1px;" class="wp-caption alignnone"><figcaption class="wp-caption-text">
